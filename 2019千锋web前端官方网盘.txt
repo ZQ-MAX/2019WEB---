@@ -1,0 +1,46 @@
+--职业发展
+2019千锋Web前端初识与职业发展https://pan.baidu.com/s/18iC3TEGV50WDdoyZm7h9-Q 提取码：zhs5
+--基础
+【录制视频】【千锋】Web前端小白入门必看预习视频https://pan.baidu.com/s/1p_nQb8GBwQ_N_6CqoocEWQ 提取码：fv71
+【录制视频】【千锋】2019Web前端从入门到精通（HTML+CSS全套）https://pan.baidu.com/s/1b6aF0I1tsDiRRcG-drjcAg 提取码：yywh
+【录制视频】2019千锋Web前端：一阶段专题视频合集https://pan.baidu.com/s/1W_xDdzGCggfwKv2qSk3QBA 提取码：ypxw
+--进阶
+【随堂视频】2019千锋JavaScript全套视频~全套资料https://pan.baidu.com/s/1vNZDK2z8R5EnT74fztG3SA 提取码：u1uf
+--高级
+【录制视频】2019轻松玩转微信小程序开发【千锋Web前端】https://pan.baidu.com/s/1h7Cpq4GkWyTxvalmjb05WQ 提取码：8bgr
+【随堂视频】2019React教程+实战全集【千锋Web前端】https://pan.baidu.com/s/1m-89Yz2q57IZK_NhKtf9kg 提取码：pelh
+【录制视频】2019最新Flutter全套视频~全套资料【千锋Web前端】https://pan.baidu.com/s/1X-9vUxJBQS43UsmZ8Ab-Xw 提取码：xk3i
+【随堂视频】2019最新Vue从入门到大神【千锋Web前端】https://pan.baidu.com/s/1DAAtSOy9oqbxdOxJ7vZz7g 提取码：jlnm
+【随堂视频】2019最新nodeJS从入门到大神【千锋Web前端】https://pan.baidu.com/s/1n15UoyIh8LRVRdkjg4pgAA 提取码：c78b
+【录制视频】2019安卓混合开发视频精讲【千锋Web前端】https://pan.baidu.com/s/132Cb0p_mMBalrc7Njdj1lw 提取码：i0r6
+【录制视频】2019ios混合开发视频精讲【千锋Web前端】https://pan.baidu.com/s/1OSyW32F7VosuW25CGlkuHA 提取码：drx3
+【录制视频】2019最新immutable.js持久化数据结构https://pan.baidu.com/s/18c_tysaaXcshEN2ELYJPjA 提取码：v4qq
+【录制视频】2019最新Webpack4.0教程https://pan.baidu.com/s/1V9kX7e8-FCjVrmUDzL9A-Q 提取码：etxn
+【录制视频】2019千锋Web前端教程-VUE服务器端渲染之NUXT实战https://pan.baidu.com/s/10_q7P-6rjTAyXloLWzQmfg 提取码：hhhh
+【录制视频】2019千锋Web前端教程-React服务器端渲染之NextJS实战https://pan.baidu.com/s/1AdANnTYIIrSngAWVgEq7pQ 提取码：x0hs
+【录制视频】2019千锋Web前端教程-GraphQL入门到精通https://pan.baidu.com/s/140yFksbRYpFhcjRpvWuK_Q
+【录制视频】千锋Web前端教程-Web前端框架课程 https://pan.baidu.com/s/10dy5VrG_nz7t4qeSFReQAg 提取码：1k2k
+【录制视频】千锋Web前端教程-Angular4从入门到实战 https://pan.baidu.com/s/1gVwNyufWHewe3XHHpBzkRA 提取码：03ia
+【录制视频】千锋Web前端教程-Touch从基础应用到实战 https://pan.baidu.com/s/1vDYDRbQe4IRW5joMZVMneg 提取码：m9fw
+【录制视频】千锋Web前端教程-Vue组件之手机通讯录实战 https://pan.baidu.com/s/1MVAaglD-0HEH487VjN6lJQ 提取码：tckn
+【录制视频】千锋Web前端教程-用面向对象打造迷你Vue框架 https://pan.baidu.com/s/1tOTYYZU7dz6m2-8s0GbGaQ 提取码：4nc3
+【录制视频】千锋Web前端教程-Web前端项目精讲 https://pan.baidu.com/s/1l9TKpvGsOgrS2biSKtR0Ww 提取码：bnfz
+--项目
+【录制视频】2019千锋Web前端：实战项目之拉勾网https://pan.baidu.com/s/14euiJhiUoBaUPExl5yqDOA 提取码：eh97
+【录制视频】2019逻辑思维训练【千锋Web前端】https://pan.baidu.com/s/1idFhXvfWPGjclexuIhZuCw 提取码：3o0t
+【录制视频】2019千锋Web前端：教你如何写好毕业论文 https://pan.baidu.com/s/152BjkOQc81Iofl7ZN_6LNw 提取码：wduj
+【录制视频】2019千锋Web前端：实战项目之网易云 https://pan.baidu.com/s/1z2z-3YGpMjJcs6QPm32UMA 提取码：vayf
+【录制视频】2019千锋Web前端：实战项目之头条 https://pan.baidu.com/s/17-XBzPvBuT5P8fuAbJnFJQ 提取码：tjia
+【录制视频】2019千锋Web前端：实战项目之幸福西饼 https://pan.baidu.com/s/1ri5LJYt5skJeymcefD7RsA 提取码：mk5v
+【录制视频】2019千锋Web前端：一小时开发996.ICUhttps://pan.baidu.com/s/1gvvHaLfeflZ-9n-ioc8nMw 提取码：qako
+【录制视频】2019千锋Web前端：Vue实战项目之喵喵电影https://pan.baidu.com/s/1Zz4FwKfq-7gSe5WbYQuTNw 提取码：5wu1
+--面试题
+【录制视频】2019前端新人入行常见问题大合集【千锋Web前端】https://pan.baidu.com/s/1Lx5-JMj6U_IqvCkWT9bRLw 提取码：699k
+【录制视频】企业面试题精讲①-node.js及项目工程化https://pan.baidu.com/s/10XI6tutQhhWtp5nMjzXb3Q 提取码：gupu
+【录制视频】企业面试题精讲②-reactJS常见问题讲解https://pan.baidu.com/s/1iRPubj_Ck21Zp8LA7hYDOA 提取码：c828
+【录制视频】企业面试题精讲③-Vue.js常见问题讲解https://pan.baidu.com/s/1kBLiKL2lwS9d08TCc0WIkw 提取码：3la7
+【录制视频】企业面试题精讲④-页面布局及设备适配https://pan.baidu.com/s/1BXcAVgki-MdhM-DM2laeSw 提取码：ca77
+【录制视频】企业面试题精讲⑤-前后端协作及综合问题讲解https://pan.baidu.com/s/1nhOBGOpU4iGUOn7AJqXpaQ 提取码：361z
+【录制视频】企业面试题精讲⑥-原生JS、jQuery常见问题讲解https://pan.baidu.com/s/1Aep6NVSrQninUbl38n3BJA 提取码：eccm
+--工具
+HTML5相关软件 https://pan.baidu.com/s/1-I-lVEKdpsgXGfb3S6YGzw 提取码：r1b1
